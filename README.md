@@ -15,7 +15,7 @@ Rule Set: [[(0.185, 0.2, 1), (0.343, 0.58, 0), (0.75, 0.85, 0), (0.15, 0.18, 0)]
 ## emnca
 This folder is the most recent version of my work in MNCA. This folder contains:
 
-### MNCA Feb and MNCA Jan are outdated codes and results. Still worth exploring :)
+#### Maintaining two repos public and private. (public - mnca, private - emnca)
 
 <img width="703" alt="image" src="https://user-images.githubusercontent.com/13884479/221709337-252ae037-d28a-44b9-99ad-60afc808cd61.png">
 
