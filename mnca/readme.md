@@ -101,4 +101,11 @@ run_automaton(width, height, steps, init_state, filename, neighborhoods, range_o
 
 
 
+## New rules found 14th march
 
+
+![image](https://user-images.githubusercontent.com/13884479/224953572-2102b291-612e-43ed-8c21-332cfaf8f19f.png)
+![224578189-287ebaea-2cbe-428b-9039-0f6cdece59c4](https://user-images.githubusercontent.com/13884479/224953647-537734a8-e25e-4477-8945-dbbccf5172e3.gif)
+
+
+Best Chromosome from this Generation: [[(0.309, 0.908, 1), (0.239, 0.847, 1)], [(0.325, 0.641, 1), (0.668, 0.847, 0), (0.44, 0.599, 0), (0.569, 0.723, 1)], [(0.254, 0.604, 1), (0.844, 0.905, 1), (0.803, 0.868, 1), (0.408, 0.545, 0)]] Best Chromosome Fitness from this Generation: 123155
