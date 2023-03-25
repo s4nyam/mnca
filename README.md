@@ -59,3 +59,32 @@ Some more life like complex rules
 https://user-images.githubusercontent.com/13884479/221712070-b8010719-8d40-488a-96e6-db1f6bcb9348.mp4
 
 https://user-images.githubusercontent.com/13884479/221712177-57f4fd0c-e509-4627-a083-a92a93790fd6.mp4
+
+
+# Latest results from 23 march:
+
+### p10g25_3.ipynb
+
+EC outputs / notebook - https://github.com/s4nyam/emnca/blob/main/1.%20emnca/EC%20runs%2023%20march/p10g25_3.ipynb
+
+Fitness vs Generation plot
+
+![download](https://user-images.githubusercontent.com/13884479/227127469-63896575-3add-4b5e-9e0c-ade987d74687.png)
+
+
+Best Rule found:
+
+```
+Generation:  24
+Best Individual: 
+[[(0.451, 0.713, 0), (0.449, 0.663, 1), (0.191, 0.52, 1), (0.089, 0.296, 0)], [(0.332, 0.51, 0), (0.084, 0.307, 0), (0.182, 0.465, 1)], [(0.799, 0.902, 0), (0.303, 0.456, 0), (0.835, 0.984, 1)]]
+Best Fitness: 
+135495
+```
+
+Output
+
+https://user-images.githubusercontent.com/13884479/227144111-da934475-39e8-4325-9f95-fda8ec127bae.mp4
+
+(Some metaphors - https://youtu.be/A_6fxpraulg and other videos on his channel)
+
