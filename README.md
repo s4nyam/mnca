@@ -63,9 +63,10 @@ https://user-images.githubusercontent.com/13884479/221712177-57f4fd0c-e509-4627-
 
 # Latest results from 23 march:
 
-### p10g25_3.ipynb
+### p10g25_3.ipynb (Microscopic Activity)
 
 EC outputs / notebook - https://github.com/s4nyam/emnca/blob/main/1.%20emnca/EC%20runs%2023%20march/p10g25_3.ipynb
+you may not be able to access this ntebook becayse it is in private repository for now.
 
 Fitness vs Generation plot
 
@@ -86,5 +87,4 @@ Output
 
 https://user-images.githubusercontent.com/13884479/227144111-da934475-39e8-4325-9f95-fda8ec127bae.mp4
 
-(Some metaphors - https://youtu.be/A_6fxpraulg and other videos on his channel)
 
