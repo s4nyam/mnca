@@ -11,11 +11,6 @@ https://user-images.githubusercontent.com/13884479/221711801-01b77936-149e-411d-
 Rule Set: [[(0.185, 0.2, 1), (0.343, 0.58, 0), (0.75, 0.85, 0), (0.15, 0.18, 0)], [(0.15, 0.28, 0), (0.445, 0.68, 1)]]
 
 
-Fitness vs Generation plot
-
-![download](https://user-images.githubusercontent.com/13884479/227127469-63896575-3add-4b5e-9e0c-ade987d74687.png)
-
-
 ## emnca
 This folder is the most recent version of my work in MNCA. This folder contains:
 
