@@ -109,3 +109,18 @@ run_automaton(width, height, steps, init_state, filename, neighborhoods, range_o
 
 
 Best Chromosome from this Generation: [[(0.309, 0.908, 1), (0.239, 0.847, 1)], [(0.325, 0.641, 1), (0.668, 0.847, 0), (0.44, 0.599, 0), (0.569, 0.723, 1)], [(0.254, 0.604, 1), (0.844, 0.905, 1), (0.803, 0.868, 1), (0.408, 0.545, 0)]] Best Chromosome Fitness from this Generation: 123155
+
+
+# Mathematics for mutation
+
+
+![image](https://user-images.githubusercontent.com/13884479/227717138-c6f39b79-09a4-436a-bade-70fc8d4d9927.png)
+
+![image](https://user-images.githubusercontent.com/13884479/227717146-2f1e51fe-891c-4ecf-979d-e833009c78a6.png)
+
+![image](https://user-images.githubusercontent.com/13884479/227717149-c91f2fb7-5e43-42c3-974c-9a389decf1c2.png)
+
+![image](https://user-images.githubusercontent.com/13884479/227717191-1de47ebd-8981-4ae1-a00c-741cbb24ed2e.png)
+
+![image](https://user-images.githubusercontent.com/13884479/227717170-2a3255b0-e711-4922-bdfd-bb9878fd817d.png)
+
