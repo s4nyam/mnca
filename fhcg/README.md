@@ -1,5 +1,8 @@
 # Frequency Histogram Coarse Graining in action
 
+### HD 
+![animation_hd](https://github.com/s4nyam/mnca/assets/13884479/696e1052-aaea-4526-a133-f66f414bf2c3)
+
 ### thresh 0.005
 https://github.com/s4nyam/mnca/assets/13884479/e010a134-b3a3-49d3-a49a-2dbc1cc71f3f
 
@@ -29,5 +32,3 @@ https://github.com/s4nyam/mnca/assets/13884479/52af0aa2-d0ab-4fe7-84dd-7cc67c353
 
 ### thresh 0.041
 https://github.com/s4nyam/mnca/assets/13884479/fd254013-a06c-4c86-94ea-429fa4e71507
-
-### HD 
